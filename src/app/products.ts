@@ -23,6 +23,12 @@ export const products = [
     name: 'Phone Standard',
     price: 299,
     description: ''
+  },
+  {
+    id: 4,
+    name: 'iPhone SE 2020',
+    price: 159,
+    description: 'This is the last iPhone SE, not the newest one.'
   }
 ];
 
